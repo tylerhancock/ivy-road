@@ -73,12 +73,12 @@ video {
   fonts 
 */
 .font-sm{
-  font-size: 16px;
+  font-size: 18px;
   line-height: 1.2;
 }
 
 .font-md {
-  font-size: 16px;
+  font-size: 18px;
   line-height: 1.2;
 }
 
@@ -95,7 +95,7 @@ video {
 }
 
 @media (min-width: 576px) {
-  .font-sm{
+  .font-sm {
     font-size: 18px;
   }
   .font-md {
@@ -113,7 +113,7 @@ video {
 }
 
 @media (min-width: 768px) {
-  .font-sm{
+  .font-sm {
     font-size: 18px;
   }
   .font-md {
@@ -131,7 +131,7 @@ video {
 }
 
 @media (min-width: 992px) {
-  .font-sm{
+  .font-sm {
     font-size: 18px;
   }
   .font-md {
@@ -139,7 +139,6 @@ video {
   }
   .font-lg {
     font-size: 26px;
-    font-weight: 300;
   }
   .font-xl {
     font-size: 42px;
@@ -150,7 +149,7 @@ video {
 }
 
 @media (min-width: 1120px) {
-  .font-sm{
+  .font-sm {
     font-size: 18px;
   }
   .font-md {
@@ -168,7 +167,7 @@ video {
 }
 
 @media (min-width: 1280px) {
-  .font-sm{
+  .font-sm {
     font-size: 18px;
   }
   .font-md {
@@ -186,8 +185,8 @@ video {
 }
 
 @media (min-width: 1440px) {
-  .font-sm{
-    font-size: 18px;
+  .font-sm {
+    font-size: 20px;
   }
   .font-md {
     font-size: 24px;
@@ -204,8 +203,8 @@ video {
 }
 
 @media (min-width: 1600px) {
-  .font-sm{
-    font-size: 18px;
+  .font-sm {
+    font-size: 20px;
   }
   .font-md {
     font-size: 26px;
