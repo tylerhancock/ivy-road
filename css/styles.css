@@ -17,6 +17,23 @@ p, span, li, a {
        -o-font-smoothing: antialiased;
 }
 
+li {
+  list-style-position: inside;
+  list-style-type: none;
+  padding-bottom: 15px;
+}
+
+b {
+  font-weight: 600;
+}
+
+hr {
+  border-top: 2px solid #eeeeee !important;
+  border-right: 0;
+  border-left: 0;
+  border-bottom: 0;
+}
+
 /*
   logo
 */
@@ -60,13 +77,6 @@ p, span, li, a {
 video {
   width: 100% !important;
   height: auto !important;
-}
-
-/*
-  services
-*/
-.price {
-  color: #013a2a;
 }
 
 /* 
