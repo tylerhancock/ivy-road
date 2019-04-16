@@ -17,6 +17,11 @@ p, span, li, a {
        -o-font-smoothing: antialiased;
 }
 
+ul {
+  padding-left: 0;
+  margin-left: 0;
+}
+
 li {
   list-style-position: inside;
   list-style-type: none;
